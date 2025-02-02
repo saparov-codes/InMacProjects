@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B4ABA774-CCF9-4293-B79B-36D564988945}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpInMac/Solution.cs">
+    <Files>
+      <File FileName="CSharpInMac/Program.cs" Line="12" Column="1" />
+      <File FileName="CSharpInMac/Solution.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpInMac" expanded="True">
+            <Node name="CSharpInMac" expanded="True">
+              <Node name="Solution.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CSharpInMac PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

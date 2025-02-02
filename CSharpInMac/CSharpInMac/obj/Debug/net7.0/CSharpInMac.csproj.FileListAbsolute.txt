@@ -1,0 +1,15 @@
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/bin/Debug/net7.0/CSharpInMac
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/bin/Debug/net7.0/CSharpInMac.deps.json
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/bin/Debug/net7.0/CSharpInMac.runtimeconfig.json
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/bin/Debug/net7.0/CSharpInMac.dll
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/bin/Debug/net7.0/CSharpInMac.pdb
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/obj/Debug/net7.0/CSharpInMac.csproj.AssemblyReference.cache
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/obj/Debug/net7.0/CSharpInMac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/obj/Debug/net7.0/CSharpInMac.AssemblyInfoInputs.cache
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/obj/Debug/net7.0/CSharpInMac.AssemblyInfo.cs
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/obj/Debug/net7.0/CSharpInMac.csproj.CoreCompileInputs.cache
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/obj/Debug/net7.0/CSharpInMac.dll
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/obj/Debug/net7.0/refint/CSharpInMac.dll
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/obj/Debug/net7.0/CSharpInMac.pdb
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/obj/Debug/net7.0/CSharpInMac.genruntimeconfig.cache
+/Users/mehrojsaparov/Desktop/MacBook - GitHub/InMacProjects/CSharpInMac/CSharpInMac/obj/Debug/net7.0/ref/CSharpInMac.dll
