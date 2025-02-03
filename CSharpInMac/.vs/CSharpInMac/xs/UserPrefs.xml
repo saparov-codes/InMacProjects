@@ -5,14 +5,14 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="CSharpInMac/Solution.cs">
     <Files>
-      <File FileName="CSharpInMac/Program.cs" Line="12" Column="1" />
-      <File FileName="CSharpInMac/Solution.cs" Line="7" Column="2" />
+      <File FileName="CSharpInMac/Program.cs" />
+      <File FileName="CSharpInMac/Solution.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CSharpInMac" expanded="True">
-            <Node name="CSharpInMac" expanded="True">
+          <Node name="CSharpInMac">
+            <Node name="CSharpInMac">
               <Node name="Solution.cs" selected="True" />
             </Node>
           </Node>
