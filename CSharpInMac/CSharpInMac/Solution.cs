@@ -7,16 +7,23 @@ public class Solution
 {
     public int[] TwoSum(int[] nums, int target) // 1
     {
-        for(var i = 0; i < nums.Length-1; i++)
+    Dictionary<int, int> map = new Dictionary<int, int>();
+
+    for (int i = 0; i < nums.Length; i++)
+    {
+        int complement = target - nums[i];
+
+        if (map.ContainsKey(complement))
         {
-            if (nums[i] + nums[i+1] == target)
-            {
-                return new int[] { i, i + 1 };
-            }
+            return new int[] { map[complement], i };
         }
 
-        return new int[] {};
+        map[nums[i]] = i;
     }
+
+    return new int[] { };
+}
+
 
     public int Search(int[] nums, int target) // 704
     {
